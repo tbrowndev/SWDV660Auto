@@ -7,7 +7,7 @@ def MilitarySpelling(word):
 
 def Main():
     word = input("Enter a Word (No SPACES): ")
-    print("Military Spellig of your word:")
+    print("Military Spelling of your word:")
     print(MilitarySpelling(word))
 
 Main()
